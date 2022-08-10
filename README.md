@@ -1,2 +1,2 @@
 # Intelligent-Systems
-:school: University of Southampton - Intelligent Systems (COMP2208) - Courseworks and Notes - 2020/2021
+This repository contains both **COMP2208-Intelligent Systems** courseworks and notes
